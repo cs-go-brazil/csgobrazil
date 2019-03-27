@@ -1,0 +1,1 @@
+C:\Users\Lucas\source\repos\csgo\csgo\csgo.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
